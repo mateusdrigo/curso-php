@@ -1,7 +1,8 @@
 <?php
 
-echo "Meu primeiro código PHP!!!";
+<<<<<<< HEAD
+echo "Meu primeiro código PHP!!";
 
-echo "Hello World!!!"
+echo "Hello World!"
 
 ?>
